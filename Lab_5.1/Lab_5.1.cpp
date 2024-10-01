@@ -9,8 +9,7 @@ int main()
 	double p, q;
 	cout << "p = "; cin >> p;
 	cout << "q = "; cin >> q;
-	double c = pow(h(abs(p - q), sqrt(abs(p - q))), 2) + h(1, (q * q) - (p * p));
-
+	double c = (h(abs(p - q), sqrt(abs(p - q))) * (h(abs(p - q), sqrt(abs(p - q))) + h(1, (q * q) - (p * p))));
 	cout << "c = " << c << endl;
 	return 0;
 }
