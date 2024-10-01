@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\NULP\\AP\\autumn_labs\u0026pract\\October\\ap_t_05\\ReadyToLook\\Lab_5.1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6CE72E7E-5770-4520-91EB-63E15877429C}|UnitTest1\\UnitTest1.vcxproj|D:\\NULP\\AP\\autumn_labs\u0026pract\\October\\ap_t_05\\ReadyToLook\\Lab_5.1\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6CE72E7E-5770-4520-91EB-63E15877429C}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FD618375-68E9-4BD5-8D5D-CA2E78FC1DC7}|Lab_5.1\\Lab_5.1.vcxproj|D:\\NULP\\AP\\autumn_labs\u0026pract\\October\\ap_t_05\\ReadyToLook\\Lab_5.1\\Lab_5.1\\Lab_5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FD618375-68E9-4BD5-8D5D-CA2E78FC1DC7}|Lab_5.1\\Lab_5.1.vcxproj|solutionrelative:Lab_5.1\\Lab_5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "D:\\NULP\\AP\\autumn_labs\u0026pract\\October\\ap_t_05\\ReadyToLook\\Lab_5.1\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "D:\\NULP\\AP\\autumn_labs\u0026pract\\October\\ap_t_05\\ReadyToLook\\Lab_5.1\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-01T16:15:22.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Lab_5.1.cpp",
               "DocumentMoniker": "D:\\NULP\\AP\\autumn_labs\u0026pract\\October\\ap_t_05\\ReadyToLook\\Lab_5.1\\Lab_5.1\\Lab_5.1.cpp",
               "RelativeDocumentMoniker": "Lab_5.1\\Lab_5.1.cpp",
               "ToolTip": "D:\\NULP\\AP\\autumn_labs\u0026pract\\October\\ap_t_05\\ReadyToLook\\Lab_5.1\\Lab_5.1\\Lab_5.1.cpp",
               "RelativeToolTip": "Lab_5.1\\Lab_5.1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-01T16:05:16.14Z",
               "EditorCaption": ""
